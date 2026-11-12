@@ -162,7 +162,7 @@ with tabs[1]:
         show(charts.simple_vs_log_chart(rt.simple_returns(p), rt.log_returns(p), asset))
     with right:
         section("The check for all 10 assets")
-        st.dataframe(an.identity_table(prices, period), hide_index=True, width="stretch", height=420,
+        st.dataframe(an.identity_table(prices, period), hide_index=True, width="stretch",
                      column_config={
                          "Σ log returns": st.column_config.NumberColumn(format="%.6f"),
                          "ln(P_T / P_0)": st.column_config.NumberColumn(format="%.6f"),
