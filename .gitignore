@@ -1,0 +1,13 @@
+# Python / Jupyter
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Raw vendor data: yfinance/Yahoo data is for personal use and not redistributable.
+# MANIFEST.csv (URL, date, SHA-256) is committed instead so anyone can rebuild it.
+data/raw/
+
+# local editor / Claude Code config (has absolute paths)
+.claude/

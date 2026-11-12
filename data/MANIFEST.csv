@@ -1,0 +1,11 @@
+source,symbol,file,url,retrieved_utc,rows,first_date,last_date,sha256
+yfinance,AAPL,data/raw/yfinance/AAPL.csv,https://finance.yahoo.com/quote/AAPL/history (via yfinance 1.8.0),2026-11-12T11:57:11Z,2513,2016-11-01,2026-10-30,6df0b6d32fa2bf355d4dc49f8b0a63a95ece9bc47c0e411440cef3605467afd4
+yfinance,BTC-USD,data/raw/yfinance/BTC-USD.csv,https://finance.yahoo.com/quote/BTC-USD/history (via yfinance 1.8.0),2026-11-12T11:57:14Z,3652,2016-11-01,2026-10-31,042ecac20d64c46b00d990bc81cf1f23b730cbafe31d7d4a5d6aa6c6fa3c991c
+yfinance,EEM,data/raw/yfinance/EEM.csv,https://finance.yahoo.com/quote/EEM/history (via yfinance 1.8.0),2026-11-12T11:57:07Z,2513,2016-11-01,2026-10-30,08d7355cbce4e31febc0975959c637eb69df294ecd33390fd06da25dbf05fdca
+yfinance,EFA,data/raw/yfinance/EFA.csv,https://finance.yahoo.com/quote/EFA/history (via yfinance 1.8.0),2026-11-12T11:57:06Z,2513,2016-11-01,2026-10-30,b5df011e7f8d6dc4850b4f5a37f745ad20ac355a912594098a5203d8da0f7b38
+yfinance,GLD,data/raw/yfinance/GLD.csv,https://finance.yahoo.com/quote/GLD/history (via yfinance 1.8.0),2026-11-12T11:57:10Z,2513,2016-11-01,2026-10-30,1ea6d7e902d694f88d77f65f014f42dacde47fe0f9a3aa7cb60bdf08932185e7
+yfinance,NVDA,data/raw/yfinance/NVDA.csv,https://finance.yahoo.com/quote/NVDA/history (via yfinance 1.8.0),2026-11-12T11:57:13Z,2513,2016-11-01,2026-10-30,057faff41d018924a6bdd7b6b5a9cf3af6d10408b60a1fdc12b66eec5fbccb37
+yfinance,OGDC.KA,data/raw/yfinance/OGDC_KA.csv,https://finance.yahoo.com/quote/OGDC.KA/history (via yfinance 1.8.0),2026-11-12T11:57:15Z,2588,2016-11-01,2026-10-30,cf220a5ab5f9e3d2db0b0ac47ad90cd697737de86468c035012af96026e53a36
+yfinance,PKR=X,data/raw/yfinance/PKR_X.csv,https://finance.yahoo.com/quote/PKR=X/history (via yfinance 1.8.0),2026-11-12T11:57:17Z,2601,2016-11-01,2026-10-30,29801585242cd3f2c525c492c1ea3e5c7af323032a9f58e46a4437ba6da09790
+yfinance,SPY,data/raw/yfinance/SPY.csv,https://finance.yahoo.com/quote/SPY/history (via yfinance 1.8.0),2026-11-12T11:56:54Z,2513,2016-11-01,2026-10-30,6ee5c16185ffbe1f148fc48c981ef35b51c646ce51bd76409ef9e8e8a10909f9
+yfinance,TLT,data/raw/yfinance/TLT.csv,https://finance.yahoo.com/quote/TLT/history (via yfinance 1.8.0),2026-11-12T11:57:09Z,2513,2016-11-01,2026-10-30,88475de15af424ec11650bcdf5630e1d7c9d2cba2fc7123c23a0d75c11ec1c3b

@@ -1,0 +1,22 @@
+[project]
+name = "quant-finance-journey"
+version = "0.1.0"
+description = "Exercises and projects from the 12-month quantitative finance roadmap"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "yfinance",
+    "requests",
+    "jupyterlab",
+    "nbconvert",
+    "ipykernel",
+    "pytest",
+    "plotly",
+    "streamlit",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
